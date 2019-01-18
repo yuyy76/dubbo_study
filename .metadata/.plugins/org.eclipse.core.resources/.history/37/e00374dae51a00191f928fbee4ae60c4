@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package yyy.stu.facade.user.service.impl;
+
+import yyy.stu.facade.user.service.PmsUserFacade;
+
+/**
+ * @描述：用户dubbo服务接口实现
+ * @author yyy
+ *
+ */
+@Service("PmsUserFacade")
+public class PmsUserFacadeImpl implements PmsUserFacade {
+
+}

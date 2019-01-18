@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>yyy.stu.common</groupId>
+    <artifactId>stu-common-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+
+  <groupId>yyy.stu.service</groupId>
+  <artifactId>stu-service-user</artifactId>
+  <version>${stu-service-user}</version>
+  
+  
+  <properties>
+  	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  
+ 
+ <dependencies>
+ 	<dependency>
+		<groupId>yyy.edu</groupId>
+		<artifactId>stu-facade-user</artifactId>
+		<version>0.0.1-SNAPSHOT</version>	
+ 	</dependency>
+ 
+ 		<dependency>
+			<groupId>antlr</groupId>
+			<artifactId>antlr</artifactId>
+		</dependency>
+		
+		
+		
+		
+		
+		<dependency>
+			<groupId>xalan</groupId>
+			<artifactId>xalan</artifactId>
+			<version></version>
+		</dependency>
+
+
+ 
+ 
+ </dependencies>
+  
+  
+  
+  
+  
+</project>

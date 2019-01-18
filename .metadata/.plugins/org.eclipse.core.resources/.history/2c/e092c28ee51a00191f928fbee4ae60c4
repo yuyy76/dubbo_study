@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package yyy.stu.facade.user.service.impl;
+
+import yyy.stu.facade.user.service.PmsUserFacade;
+
+/**
+ * @author yyy
+ *
+ */
+public class PmsUserFacadeImpl implements PmsUserFacade {
+
+}

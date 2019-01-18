@@ -1,0 +1,10 @@
+package yyy.stu.facade.user.service;
+/**
+ * 用户dubbo服务接口
+ * @author yyy
+ *
+ */
+public interface PmsUserFacade {
+
+	
+}

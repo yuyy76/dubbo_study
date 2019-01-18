@@ -1,0 +1,5 @@
+package yyy.stu.facade.user.service;
+
+public interface PmsUserFacade {
+
+}
